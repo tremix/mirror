@@ -1,2 +1,0 @@
-# mirror
-Drupal installation New
